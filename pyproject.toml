@@ -1,0 +1,24 @@
+[tool.poetry]
+name = "ukbnexus-xiaoqian"
+version = "0.1.0"
+description = ""
+authors = ["XiaoqianXiao <xiao.xiaoqian.320@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+jupyter = "^1.1.1"
+pandas = "^2.2.2"
+matplotlib = "^3.9.2"
+scipy = "^1.14.1"
+scikit-learn = "^1.5.2"
+nilearn = "^0.10.4"
+seaborn = "^0.13.2"
+plotly = "^5.24.1"
+imblearn = "^0.0"
+xgboost = "^2.1.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
