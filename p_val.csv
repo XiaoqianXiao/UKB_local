@@ -1,0 +1,17 @@
+,Model_trained,Model_apply_to_1,Model_apply_to_2,pValue
+0,Modle_of_Type 1,Apply_on_Type1 ,Apply_on_Type1 ,16.0
+1,Modle_of_Type 1,Apply_on_Type1 ,Apply_on_Type2,0.0
+2,Modle_of_Type 1,Apply_on_Type1 ,Apply_on_Type3,0.0
+3,Modle_of_Type 1,Apply_on_Type1 ,Apply_on_Type4,0.0
+4,Modle_of_Type 2,Apply_on_Type2,Apply_on_Type1 ,0.0
+5,Modle_of_Type 2,Apply_on_Type2,Apply_on_Type2,16.0
+6,Modle_of_Type 2,Apply_on_Type2,Apply_on_Type3,0.0
+7,Modle_of_Type 2,Apply_on_Type2,Apply_on_Type4,1.0
+8,Modle_of_Type3,Apply_on_Type3,Apply_on_Type1 ,0.0
+9,Modle_of_Type3,Apply_on_Type3,Apply_on_Type2,0.0
+10,Modle_of_Type3,Apply_on_Type3,Apply_on_Type3,16.0
+11,Modle_of_Type3,Apply_on_Type3,Apply_on_Type4,0.0
+12,Modle_of_Type4,Apply_on_Type4,Apply_on_Type1 ,0.0
+13,Modle_of_Type4,Apply_on_Type4,Apply_on_Type2,0.0
+14,Modle_of_Type4,Apply_on_Type4,Apply_on_Type3,0.0
+15,Modle_of_Type4,Apply_on_Type4,Apply_on_Type4,16.0

@@ -1,0 +1,9 @@
+﻿Diagnose,Type1,Type2,Type3,Type4
+Social phobias,0,1,0,0
+Specific phobias,0,1,1,1
+Other phobic anxiety disorders,0,0,1,0
+Panic disorder,1,0,3,1
+Generalised anxiety disorder,1,1,0,0
+Mixed anxiety and depressive disorder,4,2,0,3
+"Anxiety disorder, unspecified",19,16,7,9
+No diagnose record,129,68,39,64
